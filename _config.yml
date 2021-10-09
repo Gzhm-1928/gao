@@ -1,5 +1,2 @@
-<!--
-theme: jekyll-theme-merlo
-->
-
-<p> hello </p>
+layout: page
+title: "PAGE TITLE"
